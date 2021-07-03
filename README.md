@@ -10,11 +10,11 @@ To setup it locally just follow below steps after cloning the repository.
 * php artisan migrate
 
 Thats it.
-* now register a user by accessing rout as http://sample-api.com/api/register
+* now register a user by accessing rout as http://127.0.0.1:8000/register
 * use returned token to make api requests
 
 To take a look at json response collection taken using postman navigate to the below path
-* https://github.com/gulzarali-packages/laravel-api-sample/tree/main/postman-collections
+* https://github.com/gulzarali-packages/api-products-v1/tree/master/postman-collections
 
 
 
